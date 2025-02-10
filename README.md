@@ -1,6 +1,6 @@
 # Inventory Management App
 
-A mobile app for managing inventory, built with **React Native**, **Node.js**, and **MongoDB**. 
+An application managing inventory, built with **React**, **Node.js**, and **MongoDB**. 
 It supports CRUD operations, user authentication, and profile updates.
 
 ## Features
